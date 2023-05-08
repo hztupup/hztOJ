@@ -11,7 +11,7 @@ import router from './router'
 import { GOOGLE_ANALYTICS_ID } from '@/utils/constants'
 import VueAnalytics from 'vue-analytics'
 import katex from '@/plugins/katex'
-
+import 'amfe-flexible'
 import Panel from './components/Panel.vue'
 import IconBtn from './components/btn/IconBtn.vue'
 import Save from './components/btn/Save.vue'
